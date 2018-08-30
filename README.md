@@ -12,13 +12,13 @@ main.cpp : main file <br>
 parser.cpp : parser file<br>
 parser.h : parser headfile<br>
 routingdb.cpp : routingdb file<br>
-Source/routingdb.h : routingdb headfile<br>
-Source/tree.cpp : tree file<br>
-Source/tree.h : tree headfile<br>
-Source/lib : source code (library)<br>
-Source/routing : executable binary<br>
-Source/eval.pl : verification file<br>
-Source/Makefile : Makefile<br>
+routingdb.h : routingdb headfile<br>
+tree.cpp : tree file<br>
+tree.h : tree headfile<br>
+/lib : source code (library)<br>
+routing : executable binary<br>
+eval.pl : verification file<br>
+Makefile : Makefile<br>
 report.doc ： report document<br>
 
 # Compile
