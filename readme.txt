@@ -1,10 +1,8 @@
-1. ¾Ç¸¹¡G¥x¬ì¤j M10407418
-2. ©m¦W¡G¦ó«TŞ³
-3. ¨Ï¥Î¤§µ{¦¡»y¨¥¡G< C++ >
-4. ¨Ï¥Î¤§½sÄ¶¾¹¡G< Qt creator >
-5. ÀÉ®×À£ÁY¤è¦¡: <.zip>
-6. ¦UÀÉ®×»¡©ú¡G
-	 M10407418-pa4/Source/main.cpp : ¥Dµ{¦¡
+ä½¿ç”¨ä¹‹ç¨‹å¼èªè¨€ï¼š< C++ >
+ä½¿ç”¨ä¹‹ç·¨è­¯å™¨ï¼š< Qt creator >
+æª”æ¡ˆå£“ç¸®æ–¹å¼: <.zip>
+6. å„æª”æ¡ˆèªªæ˜ï¼š
+	 M10407418-pa4/Source/main.cpp : ä¸»ç¨‹å¼
 	 M10407418-pa4/Source/parser.cpp : parser file
 	 M10407418-pa4/Source/parser.h : parser headfile
 	 M10407418-pa4/Source/routingdb.cpp : routingdb file
@@ -15,18 +13,18 @@
 	 M10407418-pa4/Source/routing : executable binary
 	 M10407418-pa4/Source/eval.pl : verification file
 	 M10407418-pa4/Source/Makefile : Makefile
-	 M10407418-pa4/report.doc ¡G µ{¦¡³ø§i
+	 M10407418-pa4/report.doc ï¼š ç¨‹å¼å ±å‘Š
 
-7. ½sÄ¶¤è¦¡»¡©ú¡G        	
-   ¥Dµ{¦¡¡GM10407418/Source/
-	 ½Ğ¦b¥Dµ{¦¡ªº¥Ø¿ı¤U¡AÁä¤Jmake«ü¥O¡A§Y¥i§¹¦¨½sÄ¶	   
+7. ç·¨è­¯æ–¹å¼èªªæ˜ï¼š        	
+   ä¸»ç¨‹å¼ï¼šM10407418/Source/
+	 è«‹åœ¨ä¸»ç¨‹å¼çš„ç›®éŒ„ä¸‹ï¼Œéµå…¥makeæŒ‡ä»¤ï¼Œå³å¯å®Œæˆç·¨è­¯	   
 	 1) Type "make" to compile.
 	   
 	 2) The "gr" executable binary would be generated.
 	   
 	 3) If you want to re-compile, type "make clean" followed by "make".
 	
-   ÅçÃÒµ{¦¡¡G
+   é©—è­‰ç¨‹å¼ï¼š
 	syntax :
 	./eval.pl [input_file] [output_file]
 	
@@ -34,19 +32,19 @@
 	./eval.pl adaptec1.capo70.2d.35.50.90.gr adaptec1.capo70.2d.35.50.90.out
 
            . . . . . .  
-8. °õ¦æ¡B¨Ï¥Î¤è¦¡»¡©ú¡G
-   ¥Dµ{¦¡¡G
-   ½sÄ¶§¹¦¨«á¡A¦bÀÉ®×¥Ø¿ı¤U·|²£¥Í¤@­Ó output_file.out 
+8. åŸ·è¡Œã€ä½¿ç”¨æ–¹å¼èªªæ˜ï¼š
+   ä¸»ç¨‹å¼ï¼š
+   ç·¨è­¯å®Œæˆå¾Œï¼Œåœ¨æª”æ¡ˆç›®éŒ„ä¸‹æœƒç”¢ç”Ÿä¸€å€‹ output_file.out 
 
-   ÅçÃÒµ{¦¡¡G
+   é©—è­‰ç¨‹å¼ï¼š
 	syntax :
 	./eval.pl [input_file] [output_file]
 	
 	example : 
 	./eval.pl adaptec1.capo70.2d.35.50.90.gr adaptec1.capo70.2d.35.50.90.out
            . . . . . .         
-9. °õ¦æµ²ªG»¡©ú¡G
-   ¥Dµ{¦¡¡G
+9. åŸ·è¡Œçµæœèªªæ˜ï¼š
+   ä¸»ç¨‹å¼ï¼š
 	 File Names(In, Out)		Tot OF	Max OF	WL
 	 example.gr example.out		     2       2  14
 	
