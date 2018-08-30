@@ -50,7 +50,7 @@ example : <br>
 
 # Execution result
 
-File Names(In, Out)		Tot OF	Max OF	WL<br>
+File Names(In, Out)		Tot_OF	Max_OF	WL<br>
 example.gr example.out		 2       2  14<br>
 
 File Names : input file and output file<br>
